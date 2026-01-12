@@ -1,6 +1,12 @@
-## IT-Arkitektur, Cloud, DevOps - ITA forår 2026
+## IT-Arkitektur, Cloud, DevOps - ITA spring 2026
+## About the course
 
-### Lektionsplan
+## Mandatories
+
+## Exam
+
+
+### Semester plan
 
 
 | Lektion |   Dato   |  Uge  | Emne |
