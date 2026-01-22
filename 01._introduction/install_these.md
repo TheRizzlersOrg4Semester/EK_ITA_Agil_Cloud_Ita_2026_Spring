@@ -13,17 +13,23 @@ Install Chocolatey: [https://chocolatey.org/](https://chocolatey.org/)
 
 Don't use CMD, use Git Bach.
 
+#### Try out your package manager
+Now that you have chocolately installed see if you can install Python 2:
+
+```
+    choco install python2
+```
+
 ### Mac users only
 Install homebrew: [https://brew.sh/](https://brew.sh/)
 
 Video guide on how to download for Macbook M1 or newer: [https://youtu.be/Qvfvj-UCJuQ?t=55](https://youtu.be/Qvfvj-UCJuQ?t=55)
 
-### Windows users only - Install Python2
-Try out your package manager
-Now that you have chocolately installed see if you can install Python 2:
+#### Try out your package manager
+Now that you have brew installed see if you can install a package:
 
 ```
-    choco install python2
+    brew install tree
 ```
 
 ### Install Postman and create account
