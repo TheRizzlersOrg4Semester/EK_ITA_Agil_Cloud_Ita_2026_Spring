@@ -25,13 +25,14 @@
 
 [Awsome Recipe Cookbook](https://github.com/cookbookio/awsome_recipe_cookbook)
 
-[Claude Code](https://code.claude.com/docs/en/overview)
+
+* [AI CLI assistance](ai_cli_assistant.md)
+* [Claude Code](https://code.claude.com/docs/en/overview)
 
 ## After Class
 * Group creation, and create a pull request with group info in groups.py
     * [create_a_pr_to_groups_py.md](create_a_pr_to_groups_py.md)
 
-* []()
 
 
 
