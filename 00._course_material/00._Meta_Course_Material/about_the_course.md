@@ -30,7 +30,9 @@ There is only a bit of literature to read in this course.
 
 **Workload**: There is a steep work load in the beginning, and it is quite technical. It's supposed to become easier towards the end which should fit well with the idea of DevOps. You should create a lot of automation and technical setups which allows you to lean back later on.  
 
-**Complexity**: The topics are relatively simple in the beginning. Becomes more complex and difficult to implement later on. 
+**Complexity**: The topics are relatively simple in the beginning. Becomes more complex and difficult to implement later on.
+
+**Remember**: Even though we do not have more than 8 class hours a week, this class is still half your ETCS this semester.  
 
 ---
 
@@ -71,7 +73,6 @@ Summary / tagline
 
 [**Motivation**: Why you want to complete this task.]
 
-[**Part of mandatory I/II**]
 [**Part of the exam report**]
 
 
@@ -92,12 +93,12 @@ For the type:
 
 A lecture day will typically consist of a presentation of a new topic with hands-on class work. 
 
-By the end of it, you get the chance to ask questions. If you have questions then please write them down so you can remember to ask them during the designated Q+A.
+We will also aim for having a round up Q/A in the end of the teachings.    
 
 Some days you might get some time to coordinate group work. 
 
 ---
-
+<!--
 ## Course overall structure
 
 This overview is to make you see the future milestones and know how to pace yourself throughout the course. I recommend starting simple, working in iterations and holding out on implementing the topics that come later. 
@@ -141,14 +142,14 @@ Teams subchannels:
 
 
 ---
-
+-->
 ## Choices and challenges
 
 Create a group document for choices and challenges.
 
 The document doesn't have to be long but enough for you to look up later and recall the challanges. 
 
-**Motivation**: This will help knowledge share across your team. It is also good advice for your main thesis. Show the work!
+**Motivation**: This will help knowledge share across your team. It is also good advice for your exam report. Show the work!
 
 ### Choices
 
@@ -175,9 +176,9 @@ For every major choice you've made, you must:
 
 ## PR, Please
 
-I really want you to take ownership of the course material and interact with it critically. 
+I would like you to take ownership of the course material and interact with it critically. 
 
-Make Pull Requests to suggest changes. It can be anything from fixing typos, improving explanations or tutorials etc. 
+Make Pull Requests (PR) to suggest changes. It can be anything from fixing typos, improving explanations or tutorials etc. 
 
 
 
