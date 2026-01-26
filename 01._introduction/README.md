@@ -24,14 +24,19 @@
 ![](assets/devops_technologies.png)
 
 
-[The legacy project](02._the_legacy_project.md)
+* [The legacy project](02._the_legacy_project.md)
 
-[Awsome Recipe Cookbook](https://github.com/cookbookio/awsome_recipe_cookbook)
+* [Awsome Recipe Cookbook](https://github.com/cookbookio/awsome_recipe_cookbook)
 
-[AI CLI assistance](ai_cli_assistant.md)
+* [AI CLI assistance](ai_cli_assistant.md)
 
 ## After Class
-* You should first start by finding a group. After this you can start working on the exercises beneath. 
+* You should first start by creating group. Every body needs to be in a group and you should be in one lates friday before teachings.     
+After this you can start working on the exercises beneath. 
+
+
+* Create a Gtihub organization for you group
+    * [Github getting started](01._github_started.md)
 
 * Start by finding the most critical problems in the legacy code (you should not fix them, just find them)
     * [Problems with the codebase](problems_with_the_codebase.md)
