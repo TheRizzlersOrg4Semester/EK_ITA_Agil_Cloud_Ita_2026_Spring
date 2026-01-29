@@ -9,4 +9,14 @@ GROUP_REPOS = [
             "documentation": ["link to documentation", "another link if it applies", "et cetera"],
             "members": ["Claus Bove", "Anna Alma", "Jesper Dengsø"],
         },
+        {
+            "name": "DenDanskeMetode",
+            "gitLinks": ["https://github.com/DenDanskeMetode/legacyProject"],
+            "backend": "",
+            "frontend": "",
+            "monitoring": "",
+            "stack": [],
+            "documentation": [],
+            "members": ["Felix Llambias", "Nicholas Ladik", "Christian Skovgaard", "Victor Lotz"],
+        },
 ]
