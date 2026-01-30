@@ -19,4 +19,14 @@ GROUP_REPOS = [
             "documentation": ["https://github.com/TheRizzlersOrg4Semester/Rizzlerpies/blob/main/README.md"],
             "members": ["Mike", "Johan", "Esben", "Mathias"],
         },
+                {
+            "name": "LNS",
+            "gitLinks": ["https://github.com/Linus-nisse-segmentering/linus-kogebog"],
+            "backend": "",
+            "frontend": "",
+            "monitoring": "",
+            "stack": [],
+            "documentation": [],
+            "members": ["Lukas", "Nixhajete", "Sahra"],
+        },
 ]
