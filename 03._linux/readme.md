@@ -44,5 +44,3 @@ Lav øvelserne: 
  
 Hvis du skulle blive færdig før timen er overstået skal du blive ved med at lege med systemet indtil du rammer en time!
 
-
-TEST
