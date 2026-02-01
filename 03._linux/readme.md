@@ -13,6 +13,14 @@ I dag skal i have installeret Linux så i kan lege med operativsystemet.
 
 ## Before Class
 
+Den linux distibution vi skal bruge i undervisningen skal installeres gennem docker. Det kan godt tage lidt tid at få det hele downloaded, så derfor skal i køre denne kommando inden i møder op til undervisningen. 
+
+
+```
+docker run -d --name=webtop-ubuntu-mate --security-opt seccomp=unconfined  -e PUID=1000 -e PGID=1000 -e TZ=Etc/UTC -e SUBFOLDER=/  -e TITLE=ITADevOps -p 3000:3000 -p 3001:3001 -v /var/run/docker.sock:/var/run/docker.sock  --shm-size="1gb"  --restart unless-stopped lscr.io/linuxserver/webtop:ubuntu-mate
+``` 
+
+
 Se og følg tutorials i de tre videoer:
 
 * [Linux for Hackers // EP 1](https://www.youtube.com/watch?v=VbEx7B_PTOE&list=PLIhvC56v63IJIujb5cyE13oLuyORZpdkL) (11:32)
@@ -29,9 +37,6 @@ I skal have installeret Linux så i kan arbejde med operativsystemet.
 
 Det gør i ved at køre denne docker kommando i jeres terminal. (Terminal til Mac, Powershell til Windown)
 
-```
-docker run -d --name=webtop-ubuntu-mate --security-opt seccomp=unconfined  -e PUID=1000 -e PGID=1000 -e TZ=Etc/UTC -e SUBFOLDER=/  -e TITLE=ITADevOps -p 3000:3000 -p 3001:3001 -v ~/webtop:/config -v /var/run/docker.sock:/var/run/docker.sock  --shm-size="1gb"  --restart unless-stopped lscr.io/linuxserver/webtop:ubuntu-mate
-``` 
 
 Herefter kommer i til at arbejde  med systemet og i kommer blandt andet igennem at bruge disse kommandoer: [Linux terminal commands and file system](unix_commands.md)
 
