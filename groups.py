@@ -42,12 +42,12 @@ GROUP_REPOS = [
         },
   {
             "name": "BalladeBaderne",
-            "gitLinks": ["https://github.com/Balladebaderne/legacy-project"],
+            "gitLinks": ["https://github.com/Balladebaderne/cookbook"],
             "backend": "SQL",
             "frontend": "React",
             "monitoring": "",
             "stack": ["Node.js","React"],
-            "documentation": ["https://github.com/Balladebaderne/legacy-project/blob/master/README.md"],
+            "documentation": ["https://github.com/Balladebaderne/cookbook/blob/master/README.md"],
             "members": ["Magnus Giemsa", "Laurits Munk", "Elias Garcia", "Andreas Brandenborg", "Jacob Bisgård"],
         }
 ]
