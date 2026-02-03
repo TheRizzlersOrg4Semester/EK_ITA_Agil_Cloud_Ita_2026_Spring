@@ -25,7 +25,7 @@ GROUP_REPOS = [
             "backend": "",
             "frontend": "",
             "monitoring": "",
-            "stack": [],
+            "stack": ["ruby","sinatra","rack/rackup", "puma", "ERB", "SQlite3", "HTML", "CSS"],
             "documentation": [],
             "members": ["Lukas", "Nixhajete", "Sahra"],
         },
