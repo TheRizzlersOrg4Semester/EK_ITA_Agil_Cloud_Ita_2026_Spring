@@ -3,9 +3,10 @@
 ## Before Class
 Be sure that you have a basic understanding of git commands (and be sure that you can use them through the CLI).
 
-Each group must show their work in the beginning of the lectures. You all have around 3 minutes max. Prepare this task before class.
+Each group must show their work in the beginning of this class. You all have around 3 minutes max. Prepare this task before class.    
+
 Fokus on:     
-* show the application running
+* the running application (frontend, api and openapi docs)
 * show your repository and explain the folders and files from an architectual point of veiw.
 
 
