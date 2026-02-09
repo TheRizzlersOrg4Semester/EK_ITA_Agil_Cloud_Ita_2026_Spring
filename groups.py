@@ -5,9 +5,10 @@ GROUP_REPOS = [
             "backend": "",
             "frontend": "",
             "monitoring": "",
-            "stack": [],
+            "stack": ["Golang","SQLite3","Docker"],
             "documentation": [],
             "members": ["Felix Llambias", "Nicholas Ladik", "Christian Skovgaard", "Victor Lotz"],
+            "linux":True
         },
                 {
             "name": "TheRizzlers",
