@@ -32,6 +32,7 @@ We start out by all groups show their work so far.
 
 
 - [Black board demo - Git Cheatsheet](git_cheatcheet.md)
+- [Branching demo](git_branching_demo.md)
 
 
 
