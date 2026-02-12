@@ -29,3 +29,4 @@
 * [GitHub pr template](github_pr_template.md)
 * [github issue template](github_issue_template.md)
 * [define github secrets](define_github_secrets.md)
+* [branch protection rules](branch_protection_rules.md)
