@@ -10,7 +10,7 @@
 |    3    |3/2       | [Linux Crash Course](03._linux/readme.md)              |
 |    4    |6/2       | [Linux, windows and Mac](04._linux_win_mac/README.md)     |
 |    5    |10/2      | [CI - Git, branching strategies](05._git_branching_strategies/README.md)     |
-|    6    |13/2      | [CI - github actions]()     |
+|    6    |13/2      | [CI - github actions](06._CI_github_actions/README.md)     |
 |    7    |17/2      | [Azure - Cloud](07._Azure_vm_portal_az/README.md)|
 |    8    |20/2      | [Continous_delivery](08._Continous_delivery/README.md)|
 |   9     |24/2      | [DevOps - transperency, issues, github project]()    |
