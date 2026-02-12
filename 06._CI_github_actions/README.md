@@ -20,5 +20,5 @@
 
 ## After Class
 
-* [Practice yaml](practice_yaml.md)
+* [Practice yaml](exercises/practice_yaml.md)
 
