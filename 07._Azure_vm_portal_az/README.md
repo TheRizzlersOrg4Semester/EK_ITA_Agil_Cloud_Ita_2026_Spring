@@ -22,7 +22,7 @@ Set up a Azure for students account.
 * [SSH](07._ssh.md)
 * [Running in production](08._running_in_production.md)
 * [Deployment considerations](09._deployment_considerations.md)
-* []()
+* [Azure Available Regions](https://github.com/anderslatif/EK_Azure/blob/main/tutorials/available_regions/azure_available_regions.md)
 
 ## After Class
 
