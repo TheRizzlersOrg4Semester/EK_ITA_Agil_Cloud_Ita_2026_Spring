@@ -121,14 +121,8 @@ ssh azureuser@VM_PUBLIC_IP "command_to_run"
 #### Issue: Resource creation failed due to policy restrictions
 **Error:** "Resource was disallowed by policy. You can create resources in the following regions..."
 
-**Solution:** Use one of your allowed regions:
-<!--
-- `polandcentral`
-- `germanywestcentral`
-- `swedencentral`
-- `uksouth`
-- `norwayeast`
--->
+**Solution:** Use one of your allowed regions.
+
 Example:
 ```bash
 az group create --name "my-rg" --location "uksouth"
@@ -179,37 +173,7 @@ az vm list --show-details --query "[].{Name:name, IP:publicIps, State:powerState
 az group show --name "RESOURCE_GROUP_NAME" --query location --output tsv
 ```
 
-## Region Information
-
-### Allowed Regions for Azure for Students
-Based on policy restrictions, you can use these regions:
-- `polandcentral` (Poland)
-- `germanywestcentral` (Germany)
-- `swedencentral` (Sweden)
-- `uksouth` (UK South)
-- `norwayeast` (Norway)
-
-### Recommended Region
-`uksouth` is often recommended as it may reduce costs while providing good performance for European users.
-
-## Cost Management
-
-### Check VM pricing
-```bash
-az vm list-skus --location "uksouth" --size Standard_B1s --output table
-```
-
-### Estimate costs
-```bash
-az price-sheet show --service-name "Virtual Machines" --location "uksouth"
-```
-
-### View current resource costs
-```bash
-az consumption usage list --include-subscriptions
-```
-
-## Cleanup
+## Cleanup (do this every day)
 
 ### Delete all resources
 ```bash
@@ -222,17 +186,9 @@ az group delete --name "RESOURCE_GROUP_NAME" --yes --no-wait
 az vm delete --resource-group "RESOURCE_GROUP_NAME" --name "VM_NAME" --yes
 ```
 
-## Best Practices
-
-1. **Use allowed regions**: Always use one of the policy-approved regions
-2. **Tag your resources**: Add tags for better organization and cost tracking
-3. **Use SSH keys**: Always use SSH key authentication instead of passwords
-4. **Monitor costs**: Regularly check your Azure usage to avoid surprises
-5. **Clean up unused resources**: Delete resources you're not using to save costs
-6. **Use smaller VM sizes**: For development, `Standard_B1s` is usually sufficient
-7. **Stop VMs when not in use**: Deallocate VMs to save on compute costs
-
 ## Quick Reference for Recipe Cookbook Setup
+
+Save this in a setup.sh file and make executable, for ease of irepeated use.     
 
 ```bash
 # Create resource group in allowed region

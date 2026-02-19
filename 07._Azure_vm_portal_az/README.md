@@ -20,13 +20,15 @@ If you have trouple getting an "Azure For Students" subscription connected to yo
 ## Todays Teachings
 
 * [Azure](05._azure.md)
+* [Azure Cheatsheet](Azure_Cheatsheet.md)
+---
 * [SSH](07._ssh.md)
 * [Azure VM Setup Guide](azure_vm_setup.md)
 * [Azure Available Regions](azure_available_regions.md)
+---
 * [Running in production](08._running_in_production.md)
 * [Deployment considerations](09._deployment_considerations.md)
 * [Setup & Teardown scripts](scripts)
-* [Azure Cheatsheet](Azure_Cheatsheet.md)
 * [Introduction to Cloud Infrastructure: Describe cloud concepts](https://learn.microsoft.com/en-us/training/paths/microsoft-azure-fundamentals-describe-cloud-concepts/)
 * [Describe the benefits of using cloud services](https://learn.microsoft.com/en-us/training/modules/describe-benefits-use-cloud-services/)
 * [Describe cloud service types](https://learn.microsoft.com/en-us/training/modules/describe-cloud-service-types/)
