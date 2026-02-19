@@ -1,4 +1,5 @@
 # Azure Cheat Sheet for Recipe Cookbook CI/CD
+## AZ CLI - setup
 
 This cheat sheet provides common Azure CLI commands and troubleshooting tips for managing your Recipe Cookbook VM.
 

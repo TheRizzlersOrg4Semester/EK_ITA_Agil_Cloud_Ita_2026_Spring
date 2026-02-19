@@ -19,8 +19,8 @@ If you have trouple getting an "Azure For Students" subscription connected to yo
 
 ## Todays Teachings
 
-* [Azure](05._azure.md)
-* [Azure Cheatsheet](Azure_Cheatsheet.md)
+* [Azure - Portal setup](05._azure.md)
+* [Azure Cheatsheet - AZ CLI Setup](Azure_Cheatsheet.md)
 ---
 * [SSH](07._ssh.md)
 * [Azure VM Setup Guide](azure_vm_setup.md)
