@@ -121,13 +121,14 @@ ssh azureuser@VM_PUBLIC_IP "command_to_run"
 #### Issue: Resource creation failed due to policy restrictions
 **Error:** "Resource was disallowed by policy. You can create resources in the following regions..."
 
-**Solution:** Use one of the allowed regions:
+**Solution:** Use one of your allowed regions:
+<!--
 - `polandcentral`
 - `germanywestcentral`
 - `swedencentral`
 - `uksouth`
 - `norwayeast`
-
+-->
 Example:
 ```bash
 az group create --name "my-rg" --location "uksouth"
