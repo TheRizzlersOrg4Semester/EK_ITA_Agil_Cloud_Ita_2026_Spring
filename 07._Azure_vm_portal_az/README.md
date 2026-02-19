@@ -25,8 +25,6 @@ If you have trouple getting an "Azure For Students" subscription connected to yo
 * [SSH](07._ssh.md)
 * [Azure Available Regions](azure_available_regions.md)
 ---
-* [Running in production](08._running_in_production.md)
-* [Deployment considerations](09._deployment_considerations.md)
 * [Setup & Teardown scripts](scripts)
 * [Introduction to Cloud Infrastructure: Describe cloud concepts](https://learn.microsoft.com/en-us/training/paths/microsoft-azure-fundamentals-describe-cloud-concepts/)
 * [Describe the benefits of using cloud services](https://learn.microsoft.com/en-us/training/modules/describe-benefits-use-cloud-services/)
