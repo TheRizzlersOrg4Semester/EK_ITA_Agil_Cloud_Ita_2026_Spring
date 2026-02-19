@@ -32,7 +32,7 @@ If you have trouple getting an "Azure For Students" subscription connected to yo
 
 * [Manually Deploy you app](exercises/deploy.md)
 
-**Thory**:     
+**Theory**:     
 * [Introduction to Cloud Infrastructure: Describe cloud concepts](https://learn.microsoft.com/en-us/training/paths/microsoft-azure-fundamentals-describe-cloud-concepts/)
 * [Describe the benefits of using cloud services](https://learn.microsoft.com/en-us/training/modules/describe-benefits-use-cloud-services/)
 * [Describe cloud service types](https://learn.microsoft.com/en-us/training/modules/describe-cloud-service-types/)

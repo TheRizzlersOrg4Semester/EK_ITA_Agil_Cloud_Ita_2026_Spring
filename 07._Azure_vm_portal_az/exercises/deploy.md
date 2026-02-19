@@ -14,9 +14,10 @@ For now (in this exercise) you should deploy manually, meaning **not** through G
 
 The result should look similar to this:
 
-Backend : [http://51.120.70.34/api](http://51.120.70.34/api) 
-Frontend : [http://51.120.70.34/](http://51.120.70.34/)
-Documentation : [http://51.120.70.34/api](http://51.120.70.34/apidocs/) - not working for me, but it should for you! 
+Backend : [http://51.120.70.34/api](http://51.120.70.34/api)     
+Frontend : [http://51.120.70.34/](http://51.120.70.34/)    
+Documentation : [http://51.120.70.34/api](http://51.120.70.34/apidocs/) - not working for me, but it should for you!     
+
 
 ---
 
