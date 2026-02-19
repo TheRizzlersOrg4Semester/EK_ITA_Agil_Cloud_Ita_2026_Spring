@@ -23,7 +23,6 @@ If you have trouple getting an "Azure For Students" subscription connected to yo
 * [Azure Cheatsheet - AZ CLI Setup](Azure_Cheatsheet.md)
 ---
 * [SSH](07._ssh.md)
-* [Azure VM Setup Guide](azure_vm_setup.md)
 * [Azure Available Regions](azure_available_regions.md)
 ---
 * [Running in production](08._running_in_production.md)
