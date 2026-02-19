@@ -6,24 +6,29 @@ Time to deploy your application.
 
 ---
 
-## Requirement
+## Assingment
 
-You must deploy your application to the cloud. Feel free to use any cloud provider you like.
+You must deploy your application to a Azure Virtual Machine.    
+You should create the WM, and it should run until after next teachings (tuesday).    
+For now (in this exercise) you should deploy manually, meaning **not** through GitHub and GitHub actions, but from you commandline using `ssh` and `scp`.     
 
-You must deploy to a Virtual Machine or similar. Services like Web Apps etc. are great and easy to use, but it removes your chance to learn and reach the course goals.
+The result should look similar to this:
 
-Since the simulator will expect a fixed IP address, you should deploy with static IP.
+Backend : [http://51.120.70.34/api](http://51.120.70.34/api) 
+Frontend : [http://51.120.70.34/](http://51.120.70.34/)
+Documentation : [http://51.120.70.34/api](http://51.120.70.34/apidocs/) - not working for me, but it should for you! 
 
 ---
 
-## PR to `repositories.py`
+## PR to `groups.py`
 
-Once you have deployed, create a PR to [repositories.py](/repositories.py). The relevant part to replace is:
+Once you have deployed, create a PR to [groups.py](../../groups.py). The relevant part to replace is:
 
 ```python
             "backend": "http(s)://<IP_DOMAIN>/<APIURL>",
             "frontend": "http(s)://<IP_DOMAIN>/<FrontEndURL>",
             "stack": ["Flask", "Svelte", "CouchDB", "Redis"],
+            "documentation": ["http(s)://<IP_DOMAIN>/<DocumentationURL>"],
 ```
 
 Backend and frontend could be the same IP address. 
@@ -34,4 +39,4 @@ Updating the stack is a great idea, since it allows you to connect with other gr
 
 Remember to make sure that your forked repository's state is up to date with the original repository before making your pull request.
 
-Next week, we will do a trial run before starting the simulation for real. 
+On tuesday we will do a trial run on all you applications.

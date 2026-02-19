@@ -21,16 +21,18 @@ If you have trouple getting an "Azure For Students" subscription connected to yo
 
 * [Azure - Portal setup](05._azure.md)
 * [Azure Cheatsheet - AZ CLI Setup](Azure_Cheatsheet.md)
+* [Example: Setup & Teardown scripts](scripts)
+
 ---
 * [SSH](07._ssh.md)
 * [Azure Available Regions](azure_available_regions.md)
 ---
-* [Setup & Teardown scripts](scripts)
-* [Introduction to Cloud Infrastructure: Describe cloud concepts](https://learn.microsoft.com/en-us/training/paths/microsoft-azure-fundamentals-describe-cloud-concepts/)
-* [Describe the benefits of using cloud services](https://learn.microsoft.com/en-us/training/modules/describe-benefits-use-cloud-services/)
-* [Describe cloud service types](https://learn.microsoft.com/en-us/training/modules/describe-cloud-service-types/)
 
 ## After Class
 
-* [Azure for students at EK](exercises/ek_azure.md)
-* [Time to deploy](exercises/deploy.md)
+* [Manually Deploy you app](exercises/deploy.md)
+
+**Thory**:     
+* [Introduction to Cloud Infrastructure: Describe cloud concepts](https://learn.microsoft.com/en-us/training/paths/microsoft-azure-fundamentals-describe-cloud-concepts/)
+* [Describe the benefits of using cloud services](https://learn.microsoft.com/en-us/training/modules/describe-benefits-use-cloud-services/)
+* [Describe cloud service types](https://learn.microsoft.com/en-us/training/modules/describe-cloud-service-types/)
