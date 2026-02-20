@@ -13,11 +13,11 @@ GROUP_REPOS = [
                 {
             "name": "TheRizzlers",
             "gitLinks": ["https://github.com/TheRizzlersOrg4Semester/Rizzlerpies.git"],
-            "backend": "",
-            "frontend": "",
+            "backend": "http://20.251.202.47:4000/api/",
+            "frontend": "http://20.251.202.47:4000",
             "monitoring": "",
             "stack": ["Node", "Express", "SSR (EJS)"],
-            "documentation": ["https://github.com/TheRizzlersOrg4Semester/Rizzlerpies/blob/main/README.md"],
+            "documentation": ["http://20.251.202.47:4000/apidocs/"],
             "members": ["Mike", "Johan", "Esben", "Mathias"],
         },
                 {
