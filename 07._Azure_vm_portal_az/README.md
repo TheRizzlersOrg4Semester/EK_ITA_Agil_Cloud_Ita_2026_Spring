@@ -30,7 +30,8 @@ If you have trouple getting an "Azure For Students" subscription connected to yo
 
 ## After Class
 
-* [Manually Deploy you app](exercises/deploy.md)
+* [Deploy from GHCR.io](exercises/deploy_from_ghcr_io.md) - individual
+* [Manually Deploy you app](exercises/deploy.md) - group
 
 **Theory**:     
 * [Introduction to Cloud Infrastructure: Describe cloud concepts](https://learn.microsoft.com/en-us/training/paths/microsoft-azure-fundamentals-describe-cloud-concepts/)
