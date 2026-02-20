@@ -20,7 +20,7 @@ emner
 #04._linux_win_mac/
 #05._git_branching_strategies/
 #06._CI_github_actions/
-07._Azure_vm_portal_az/
+#07._Azure_vm_portal_az/
 08._Continous_delivery/
 09._CI_code_quality_linting_static_code_analysis/
 10._DevOps_transperency_issues_project/

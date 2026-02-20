@@ -12,11 +12,11 @@
 |    5    |10/2      | [CI - Git, branching strategies](05._git_branching_strategies/README.md)     |
 |    6    |13/2      | [CI - github actions](06._CI_github_actions/README.md)     |
 |    7    |17/2      | [Azure - Cloud](07._Azure_vm_portal_az/README.md)|
-|    8    |20/2      | [Continous_delivery](08._Continous_delivery/README.md)|
-|   9     |24/2      | [DevOps - transperency, issues, github project]()    |
+|    8    |20/2      | [Azure - Cloud II](07._Azure_vm_portal_az/README.md)|
+|   9     |24/2      | [Continous delivery](08._Continous_delivery/README.md)|
 |   10    |27/2      | [CI - code quality, linting, static code analysis]()          |
-|   11    |3/3       | [CI - Pull Requests, code reviews]()             |
-|   12    |6/3       |      |
+|   11    |3/3       | [Groups - Getting ready for presentation]() - No Teachings in class |
+|   12    |6/3       | []()                 |
 |   13    |10/3      |      |
 |   14    |13/3      |      |
 |   15    |17/3      |      |
@@ -37,9 +37,9 @@
 |   29    |12/5      | CASE 2     |
 |       |            | Holiday      |
 |   30    |19/5      | Exam Project Start up    |
-|   31    |22/5          |  Exam Project         |
-|   32    |26/5          |   Exam Project        |
-|   33    |29/5          |   Exam Project        |
+|   31    |22/5      |  Exam Project         |
+|   32    |26/5      |   Exam Project        |
+|   33    |29/5      |   Exam Project        |
 
 
 

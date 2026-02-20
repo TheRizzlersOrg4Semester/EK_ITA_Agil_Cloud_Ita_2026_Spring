@@ -3,8 +3,9 @@
 
 ## learning Goals
 * Understand yaml syntax
-* Understand basics of github actions
-* Understand basics of a workflow and how the elements, events, jobs, actions, runners are connected in a workflow
+
+* Understands the terminology surrounding Github Actions such as workflows, runners, jobs, steps, and actions.
+* Can create a basic Github Action workflow that is triggered by a push and pull request, and when an issue is created.
 * Understand the use of github secrets
 * Be able to work with and write PR  templates
 * Be able to work with and write ISSUES templates
